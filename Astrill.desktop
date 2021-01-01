@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Astrill
+GenericName=VPN Client
+Comment=Browse the Internet safely with Astrill
+Exec=/usr/local/Astrill/astrill
+Icon=/usr/local/Astrill/astrillon.png
+Terminal=false
+X-MultipleArgs=false
+StartupNotify=true
+Categories=GNOME;GTK;Application;Network;
